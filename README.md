@@ -2,4 +2,5 @@
 
 ## TODO LIST
 
-[] Make the script configurable
+- [ ] VM Configuration
+- [ ] Host's paths configuration

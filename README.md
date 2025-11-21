@@ -2,4 +2,4 @@
 
 ## TODO LIST
 
-[ ] Make the script configurable
+[] Make the script configurable

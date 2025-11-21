@@ -4,3 +4,4 @@
 
 - [ ] VM Configuration
 - [ ] Host's paths configuration
+- [ ] Install nfs-client on Guest
